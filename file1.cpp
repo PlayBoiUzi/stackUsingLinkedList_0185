@@ -59,4 +59,7 @@ Node* temp = top; // Create a temporary pointer to the top node
             current = current->next;
         }
         cout << endl;
-    
+    } // Return the value of the top node
+ }
+
+
