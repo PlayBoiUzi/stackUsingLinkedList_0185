@@ -38,5 +38,5 @@ public:
         cout << "Stack is empty. " << endl;
     }
 
-
+Node* temp = top; // Create a temporary pointer to the top node
     
