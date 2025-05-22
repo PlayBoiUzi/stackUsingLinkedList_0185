@@ -39,4 +39,5 @@ public:
     }
 
 Node* temp = top; // Create a temporary pointer to the top node
+   top = top->next; // Update the top pointer to the next node
     
